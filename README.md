@@ -7,7 +7,7 @@ This is a training project from Udemy.
 --------------------------------------
 
 #### Learning Points
-1. Blueprint basics:  
+1. Blueprint basics:
   * nodes  
   * pins
 2. Programming basics in Blueprint:  
